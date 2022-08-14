@@ -1,7 +1,8 @@
-# TP-SO-ProbasteReiniciando
+# TP Sistemas Operativos
 ### TP CUATRIMESTRAl CON **MAKEFILES**:hotsprings:
+Este es un TP para correrse en Linux (Ubuntu más especificamente).  
+Los Links acá presentes pueden haber sido descontinuados.  
 Estando sobre la raiz del repositorio (`...`) y teniendo **GCC y make** instalado (la VM lo tiene) se compilan los ".out" con el comando `make`
-- Consigna del TP :mag: : https://docs.google.com/document/d/17WP76Vsi6ZrYlpYT8xOPXzLf42rQgtyKsOdVkyL5Jj0/edit
 - Fuente :white_check_mark:     : https://github.com/GuidoDipietro/lacaja-youtube/tree/main/simple-c-project-layout
 
 ### Division de modulos  :muscle:
@@ -10,5 +11,5 @@ Estando sobre la raiz del repositorio (`...`) y teniendo **GCC y make** instalad
 - CPU `30%`   🍵
 - Memoria+SWAP `30%`  :hotsprings: 
 
-
+De esto básicamente hice CPU, y ayudé un poco con Kernel y Memoria
 
